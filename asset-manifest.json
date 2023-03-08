@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-recipies/static/css/main.08dc96fc.css",
+    "main.js": "/react-tailwind-recipies/static/js/main.67aa6da5.js",
+    "static/js/787.93ebe52d.chunk.js": "/react-tailwind-recipies/static/js/787.93ebe52d.chunk.js",
+    "static/media/banner1.png": "/react-tailwind-recipies/static/media/banner1.21c3b3b513e7f63a2744.png",
+    "static/media/banner2.png": "/react-tailwind-recipies/static/media/banner2.58b4e7b4c238350d5886.png",
+    "static/media/hot-pot.png": "/react-tailwind-recipies/static/media/hot-pot.29285179207de60cb81c.png",
+    "index.html": "/react-tailwind-recipies/index.html",
+    "main.08dc96fc.css.map": "/react-tailwind-recipies/static/css/main.08dc96fc.css.map",
+    "main.67aa6da5.js.map": "/react-tailwind-recipies/static/js/main.67aa6da5.js.map",
+    "787.93ebe52d.chunk.js.map": "/react-tailwind-recipies/static/js/787.93ebe52d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08dc96fc.css",
+    "static/js/main.67aa6da5.js"
+  ]
+}
