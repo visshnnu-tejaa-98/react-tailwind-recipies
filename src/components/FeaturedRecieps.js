@@ -21,7 +21,7 @@ const FeaturedRecieps = () => {
     getData();
     console.log(data);
     setFilteredData(featuredData);
-  });
+  }, [data]);
   const handleGetData = () => {
     getData();
     setSearchTerm("");
