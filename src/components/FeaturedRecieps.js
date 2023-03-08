@@ -19,6 +19,7 @@ const FeaturedRecieps = () => {
   };
   useEffect(() => {
     getData();
+    console.log(data);
     setFilteredData(featuredData);
   }, []);
   const handleGetData = () => {
